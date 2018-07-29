@@ -1,0 +1,1266 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Minh Ký</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <Created>2018-07-17T12:43:46Z</Created>
+  <Company>Minh Nhãn Co.,Ltd.</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6795</WindowHeight>
+  <WindowWidth>8460</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>30</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Xuất lưới">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="93" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="50.25"/>
+   <Column ss:Width="30"/>
+   <Column ss:Width="39.75"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="50.25"/>
+   <Column ss:Width="30" ss:Span="3"/>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:MergeAcross="10" ss:StyleID="s63"><Data ss:Type="String">GIỜ CHẤM CÔNG</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="10" ss:StyleID="s63"><Data ss:Type="String">Từ ngày 09/07/2018 đến ngày 15/07/2018</Data></Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ngày</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Thứ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mã NV</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tên nhân viên</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Phòng ban</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Chức vụ</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Vào 1 </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ra 1 </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Vào 2 </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ra 2 </Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tổng giờ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00099</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoàng Văn Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Store Manager</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:52</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:22</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00099</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoàng Văn Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Store Manager</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:09</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00099</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoàng Văn Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Store Manager</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:08</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00099</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hoàng Văn Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Store Manager</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:48</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:11</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">12:49</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">13:24</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:21</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:30</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:36</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:38</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:43</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:27</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:43</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00102</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thùy Minh Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:37</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:55</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.2799999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00103</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Thanh Long</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:55</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:02</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00103</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Thanh Long</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:22</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:31</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00103</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Thanh Long</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:51</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15:05</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00103</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Thanh Long</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:06</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00103</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Thanh Long</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:29</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00104</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thị Bích Phượng</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:10</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:26</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00104</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thị Bích Phượng</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:31</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:29</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00104</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thị Bích Phượng</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:28</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:38</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:31</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:07</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:08</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:23</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:31</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:27</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:42</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:09</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15:49</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00107</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dương Thị Phương Thu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:42</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:49</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00108</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Võ Hồng Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:24</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00108</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Võ Hồng Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:52</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00108</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Võ Hồng Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:07</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:07</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00108</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Võ Hồng Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:29</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00108</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Võ Hồng Ngọc</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:26</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:55</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:28</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.0299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:54</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:03</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.1300000000000008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:30</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:53</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:13</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14:27</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.0299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00111</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Thu Thảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:56</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:07</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00097</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ngô Kiều Trúc Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:00</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00097</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ngô Kiều Trúc Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:29</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:30</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00097</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ngô Kiều Trúc Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:12</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">22:31</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00097</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ngô Kiều Trúc Linh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cashier</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:09</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">15:03</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00056</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:08</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:17</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00056</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:15</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00056</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:07</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:10</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.0299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00056</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:18</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:11</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00056</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:06</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:10</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.0500000000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00093</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Trương Thuận</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:35</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:22</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.7799999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00093</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Trương Thuận</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:20</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:26</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">10.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00093</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Trương Thuận</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:30</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:39</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">11.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00093</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Trương Thuận</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:23</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:44</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00093</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Trương Thuận</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:35</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:09</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:24</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:38</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.2200000000000006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">09:32</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:05</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.5299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10:17</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:33</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10:20</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:38</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.3000000000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">10:21</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:36</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00094</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lê Đức Quang Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:04</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">18:02</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.9499999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:48</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:24</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:54</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:26</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.5299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:53</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:06</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.1999999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:45</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:21</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:51</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:29</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.6300000000000008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00101</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Lâm Gia Huy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">08:51</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:44</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.8699999999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:36</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:14</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.6199999999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:50</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:21</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-11T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tư</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:40</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:26</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:49</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:17</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.4499999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:45</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:18</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.5299999999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00109</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bùi Nguyễn Mộng Khanh</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:30</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:09</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.6300000000000008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-09T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Hai</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:46</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:11</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-10T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ba</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:51</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:14</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.3699999999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Năm</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:47</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">16:20</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8.5500000000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Sáu</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:49</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:07</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bảy</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:49</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:16</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.4499999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="DateTime">2018-07-15T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">CN</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">00112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nguyễn Lễ Trí</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kitchen</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&#45;&#45;&#45;&#45;-</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">07:43</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">17:05</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9.35</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
